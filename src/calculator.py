@@ -7,7 +7,4 @@ def mul(a, b):
 def div(a, b):
     return a / b
 
-print(add(1, 2))
-print(sub(1, 2))
-print(mul(1, 2))
-print(div(1, 2))
+ 
